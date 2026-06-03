@@ -1,0 +1,13 @@
+com\parking\infrastructure\repositories\SpaceRepository.class
+com\parking\presentation\cli\ParkingCli.class
+com\parking\domain\model\Vehicle.class
+com\parking\domain\model\Ticket.class
+com\parking\domain\model\Space.class
+com\parking\ParkingApplication.class
+com\parking\infrastructure\repositories\VehicleRepository.class
+com\parking\application\services\ParkingService.class
+com\parking\infrastructure\repositories\TicketRepository.class
+com\parking\domain\model\SpaceType.class
+com\parking\infrastructure\config\DataInitializer.class
+com\parking\domain\model\VehicleType.class
+com\parking\domain\model\ParkingStatus.class

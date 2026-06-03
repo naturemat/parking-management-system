@@ -1,0 +1,13 @@
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\infrastructure\config\DataInitializer.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\VehicleType.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\ParkingApplication.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\ParkingStatus.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\infrastructure\repositories\SpaceRepository.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\application\services\ParkingService.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\Vehicle.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\infrastructure\repositories\VehicleRepository.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\Space.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\Ticket.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\infrastructure\repositories\TicketRepository.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\domain\model\SpaceType.java
+D:\UCE\Septimo\Arquitectura\Examen-Hemi\src\main\java\com\parking\presentation\cli\ParkingCli.java
